@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>sun</title>
+  
+  <subtitle>太阳明天依旧会升起</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://caspiankexin.github.io/"/>
+  <updated>2020-08-29T12:31:01.135Z</updated>
+  <id>https://caspiankexin.github.io/</id>
+  
+  <author>
+    <name>caspian</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>“语象观察”-爬取人民日报并统计词频</title>
+    <link href="https://caspiankexin.github.io/2020/08/29/22-ji-zhu-yu-xiang-guan-cha-pa-qu-ren-min-ri-bao-bing-tong-ji-ci-pin/"/>
+    <id>https://caspiankexin.github.io/2020/08/29/22-ji-zhu-yu-xiang-guan-cha-pa-qu-ren-min-ri-bao-bing-tong-ji-ci-pin/</id>
+    <published>2020-08-29T12:28:46.000Z</published>
+    <updated>2020-08-29T12:31:01.135Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;[TOC]&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“语象观察”是之前看过的钱钢老师做的一项社会学研究，由于之前用于发布的“尽知天下事”公众号被封，导致目前无法再看到老师的相关研究成果（或许这个项目已经停止了），便有了自己尝试来研究。&lt;br&gt;钱钢老师的文章示例：&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://caspiankexin.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>对于参与舆论，法律规则和立场的一些反思</title>
+    <link href="https://caspiankexin.github.io/2020/08/27/21-self-dui-yu-can-yu-yu-lun-fa-lu-gui-ze-he-li-chang-de-yi-xie-fan-si/"/>
+    <id>https://caspiankexin.github.io/2020/08/27/21-self-dui-yu-can-yu-yu-lun-fa-lu-gui-ze-he-li-chang-de-yi-xie-fan-si/</id>
+    <published>2020-08-27T12:38:43.000Z</published>
+    <updated>2020-08-27T12:40:56.163Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;针对近期热点事件“男生追赶猥琐男，直接进行伤害，造成轻伤，男生被猥琐男索赔刑拘，猥琐男和女生协商后数百元和解”我在评论的评论里发表了一些纠正评论中关于法律规则的不客观的发言。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我依旧秉承不评论原博，只评论评
+        
+      
+    
+    </summary>
+    
+      <category term="Self" scheme="https://caspiankexin.github.io/categories/Self/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>艰难的信用卡申请历程</title>
+    <link href="https://caspiankexin.github.io/2020/08/23/20-self-jian-nan-de-xin-yong-qia-shen-qing-li-cheng/"/>
+    <id>https://caspiankexin.github.io/2020/08/23/20-self-jian-nan-de-xin-yong-qia-shen-qing-li-cheng/</id>
+    <published>2020-08-23T13:28:30.000Z</published>
+    <updated>2020-08-23T13:45:21.203Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;大学生没有收入来源，所以认定没有还款能力，便限制学生申请信用卡。（我明白这个年龄就算不是学生没有资产也很难申请到信用卡，不过我就是想吐槽一下了）&lt;/p&gt;
+&lt;p&gt;我就来叨叨一下我申请信用卡的艰难历程。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;因为疫情原因，导致我心心念的《花木兰》迟迟未上映。
+        
+      
+    
+    </summary>
+    
+      <category term="Self" scheme="https://caspiankexin.github.io/categories/Self/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>星空带来期望也带来绝望</title>
+    <link href="https://caspiankexin.github.io/2020/08/10/19-xing-kong-dai-lai-qi-wang-ye-dai-lai-jue-wang/"/>
+    <id>https://caspiankexin.github.io/2020/08/10/19-xing-kong-dai-lai-qi-wang-ye-dai-lai-jue-wang/</id>
+    <published>2020-08-10T14:44:49.000Z</published>
+    <updated>2020-08-10T14:45:24.182Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;星空带来期望也带来绝望&quot;&gt;&lt;a href=&quot;#星空带来期望也带来绝望&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>少点政治，少点讯息，多点自我</title>
+    <link href="https://caspiankexin.github.io/2020/07/29/18-shao-dian-zheng-zhi-shao-dian-xun-xi-duo-dian-zi-wo/"/>
+    <id>https://caspiankexin.github.io/2020/07/29/18-shao-dian-zheng-zhi-shao-dian-xun-xi-duo-dian-zi-wo/</id>
+    <published>2020-07-29T14:58:41.000Z</published>
+    <updated>2020-07-29T15:06:55.388Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;从疫情开始时间比较多，更多的关注了社会问题。但这是否是好事呢？万事还是得有个度。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;早早的就通过网络知道外面世界的样子，明白政治上的斗争是多么的广泛，也清楚不应该把自己完全交给集体，要在集权社会保持独立的自己
+        
+      
+    
+    </summary>
+    
+    
+      <category term="三省吾身" scheme="https://caspiankexin.github.io/tags/%E4%B8%89%E7%9C%81%E5%90%BE%E8%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BLM运动下反思自己是否存在相关问题</title>
+    <link href="https://caspiankexin.github.io/2020/07/13/17-blm-yun-dong-xia-fan-si-zi-ji-shi-fou-cun-zai-xiang-guan-wen-ti/"/>
+    <id>https://caspiankexin.github.io/2020/07/13/17-blm-yun-dong-xia-fan-si-zi-ji-shi-fou-cun-zai-xiang-guan-wen-ti/</id>
+    <published>2020-07-13T02:02:38.000Z</published>
+    <updated>2020-07-13T02:09:33.720Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;BLM运动下反思自己的“种族歧视”经历&quot;&gt;&lt;a href=&quot;#BLM运动下反思自己的“种族歧视”经历&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="三省吾身" scheme="https://caspiankexin.github.io/categories/%E4%B8%89%E7%9C%81%E5%90%BE%E8%BA%AB/"/>
+    
+    
+      <category term="反思" scheme="https://caspiankexin.github.io/tags/%E5%8F%8D%E6%80%9D/"/>
+    
+      <category term="社会" scheme="https://caspiankexin.github.io/tags/%E7%A4%BE%E4%BC%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的的PC精选软件</title>
+    <link href="https://caspiankexin.github.io/2020/06/22/16-wo-de-dian-nao-ruan-jian-jing-xuan/"/>
+    <id>https://caspiankexin.github.io/2020/06/22/16-wo-de-dian-nao-ruan-jian-jing-xuan/</id>
+    <published>2020-06-22T09:58:35.000Z</published>
+    <updated>2020-06-22T10:39:30.726Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;我的的PC精选软件&quot;&gt;&lt;a href=&quot;#我的的PC精选软件&quot; class=&quot;headerlink&quot; title=&quot;我的的PC精选软件&quot;&gt;&lt;/a&gt;我的的PC精选软件&lt;/h1&gt;&lt;h2 id=&quot;系统工具级&quot;&gt;&lt;a href=&quot;#系统工具级&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="软件" scheme="https://caspiankexin.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于女权运动的一点思考和想法</title>
+    <link href="https://caspiankexin.github.io/2020/04/21/15-nu-quan-guan-yu-nu-quan-yun-dong-de-yi-xie-si-kao-he-xiang-fa/"/>
+    <id>https://caspiankexin.github.io/2020/04/21/15-nu-quan-guan-yu-nu-quan-yun-dong-de-yi-xie-si-kao-he-xiang-fa/</id>
+    <published>2020-04-21T02:49:56.000Z</published>
+    <updated>2020-04-21T02:52:44.217Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;运动的群众性和正当性在于回应绝大部分人的核心诉求，允许由一小部分人领导群体去进行抗争来谋求共同利益。核心诉求应该是群体自发性产生少部分人回应，不应该是少数人将自己诉求推广到群体上来形成抗争力量。现在女权运动问题在于并没有一个符合最广大女性群体并且具有其独特性的核心诉求，无法
+        
+      
+    
+    </summary>
+    
+      <category term="女权" scheme="https://caspiankexin.github.io/categories/%E5%A5%B3%E6%9D%83/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>查证！西班牙疫情放弃60岁以上老人的报道是真的吗？带你来查证</title>
+    <link href="https://caspiankexin.github.io/2020/03/30/14-chuan-mei-cha-zheng-xi-ban-ya-yi-qing-fang-qi-60-sui-yi-shang-lao-ren-de-bao-dao-shi-zhen-de-ma-dai-ni-lai-cha-zheng/"/>
+    <id>https://caspiankexin.github.io/2020/03/30/14-chuan-mei-cha-zheng-xi-ban-ya-yi-qing-fang-qi-60-sui-yi-shang-lao-ren-de-bao-dao-shi-zhen-de-ma-dai-ni-lai-cha-zheng/</id>
+    <published>2020-03-30T03:08:23.000Z</published>
+    <updated>2020-03-31T15:33:57.082Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;2020年3月25日，中文互联网出现一则消息“西班牙《20分钟》报报道，西班牙将放弃60岁以上新冠肺炎患者”，全平台，大大小小的媒体都转载了。&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+      <category term="传媒" scheme="https://caspiankexin.github.io/categories/%E4%BC%A0%E5%AA%92/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【传媒】疫情期间关于信息媒体的一些思考</title>
+    <link href="https://caspiankexin.github.io/2020/03/05/13-chuan-mei-yi-qing-qi-jian-guan-yu-xin-xi-mei-ti-de-yi-xie-si-kao/"/>
+    <id>https://caspiankexin.github.io/2020/03/05/13-chuan-mei-yi-qing-qi-jian-guan-yu-xin-xi-mei-ti-de-yi-xie-si-kao/</id>
+    <published>2020-03-05T13:14:19.000Z</published>
+    <updated>2020-03-30T08:09:15.751Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;因为这场天灾加人祸，无数中国人过了一个加长版的假期。在重大公共事件时，舆论场都是非常热闹的。在这期间一些事件有一点自己的小小思考，在此记录，或许是日后思考的资源。&lt;/p&gt;
+&lt;p&gt;###封号问题&lt;/p&gt;
+&lt;p&gt;近一段时间以来，我关注的被封号的情况越来越多。有因为舆论暴力退出的
+        
+      
+    
+    </summary>
+    
+      <category term="传媒" scheme="https://caspiankexin.github.io/categories/%E4%BC%A0%E5%AA%92/"/>
+    
+    
+      <category term="思考，媒体" scheme="https://caspiankexin.github.io/tags/%E6%80%9D%E8%80%83%EF%BC%8C%E5%AA%92%E4%BD%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【传媒】数字化×新闻传媒--发掘新的“信息”</title>
+    <link href="https://caspiankexin.github.io/2020/03/05/12-chuan-mei-shu-zi-hua-xxin-wen-chuan-mei-fa-jue-xin-de-xin-xi/"/>
+    <id>https://caspiankexin.github.io/2020/03/05/12-chuan-mei-shu-zi-hua-xxin-wen-chuan-mei-fa-jue-xin-de-xin-xi/</id>
+    <published>2020-03-05T13:13:14.000Z</published>
+    <updated>2020-03-05T13:47:00.669Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;作为很不专业新闻传媒人士，我知道传媒的人没有几个，最有声望的是香港中文大学的钱钢老师。可惜的是钱钢老师已经很久不在社交媒体上出现了，能看到他的身影的地方是一个名叫“尽知天下事”的公众号（已经被封）会定期推送钱钢老师的“语象观察”系列研究。&lt;/p&gt;
+&lt;blockquote&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="传媒" scheme="https://caspiankexin.github.io/categories/%E4%BC%A0%E5%AA%92/"/>
+    
+    
+      <category term="传媒" scheme="https://caspiankexin.github.io/tags/%E4%BC%A0%E5%AA%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【技术询问】开源程序使用及文本统计的方法</title>
+    <link href="https://caspiankexin.github.io/2020/03/01/11-ji-zhu-xun-wen-kai-yuan-cheng-xu-shi-yong-ji-wen-ben-tong-ji-de-fang-fa/"/>
+    <id>https://caspiankexin.github.io/2020/03/01/11-ji-zhu-xun-wen-kai-yuan-cheng-xu-shi-yong-ji-wen-ben-tong-ji-de-fang-fa/</id>
+    <published>2020-03-01T10:11:42.000Z</published>
+    <updated>2020-03-05T13:47:16.165Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;需要用到很多GitHub里的程序，下载下来没有可执行的操作。对于这些github里的东西到底该怎么用，随便举例：github里的jieba分词。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如何用python来把一个文件夹下
+        
+      
+    
+    </summary>
+    
+      <category term="学习问题" scheme="https://caspiankexin.github.io/categories/%E5%AD%A6%E4%B9%A0%E9%97%AE%E9%A2%98/"/>
+    
+    
+      <category term="python" scheme="https://caspiankexin.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【学习笔记】人民日报数据分析及可视化项目记录</title>
+    <link href="https://caspiankexin.github.io/2020/03/01/10-xue-xi-bi-ji-ren-min-ri-bao-shu-ju-fen-xi-ji-ke-shi-hua-xiang-mu-ji-lu/"/>
+    <id>https://caspiankexin.github.io/2020/03/01/10-xue-xi-bi-ji-ren-min-ri-bao-shu-ju-fen-xi-ji-ke-shi-hua-xiang-mu-ji-lu/</id>
+    <published>2020-03-01T08:29:22.000Z</published>
+    <updated>2020-07-13T02:09:12.830Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;技术小白写的技术向学习文章&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;最近在琢磨一个项目，利用人民日报的数据来分析官方的语文表达喜好（不往后搞了，不然我肯定会被封）。不是我的原创，是之前看其他公众号做过的，后来因为审核原因那个公众号被封了。&lt;/p&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="学习笔记" scheme="https://caspiankexin.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="传媒" scheme="https://caspiankexin.github.io/tags/%E4%BC%A0%E5%AA%92/"/>
+    
+      <category term="爬虫" scheme="https://caspiankexin.github.io/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>近日播客和网站的折腾建设情况</title>
+    <link href="https://caspiankexin.github.io/2020/02/01/09/"/>
+    <id>https://caspiankexin.github.io/2020/02/01/09/</id>
+    <published>2020-02-01T07:10:37.000Z</published>
+    <updated>2020-03-01T09:54:13.309Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;目前开通了一个博客“The M&amp;amp;W World”，用来“女权”相关的思考，并没有很大的信心可以长期坚持发展下去，对我而言总是在尝试中慢慢锻炼成长。对于网站的定位变换里好多，我希望是一个技术性的内容，但是好像也不太让我满意。   
+        
+      
+    
+    </summary>
+    
+      <category term="折腾日记" scheme="https://caspiankexin.github.io/categories/%E6%8A%98%E8%85%BE%E6%97%A5%E8%AE%B0/"/>
+    
+    
+      <category term="随笔" scheme="https://caspiankexin.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>He For She,She For He</title>
+    <link href="https://caspiankexin.github.io/2020/01/27/08-nu-quan-he-for-she-she-for-he/"/>
+    <id>https://caspiankexin.github.io/2020/01/27/08-nu-quan-he-for-she-she-for-he/</id>
+    <published>2020-01-27T02:58:48.000Z</published>
+    <updated>2020-08-17T14:19:47.650Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;作为一个还没有找到人生乐趣的人，我并不清楚自己可以用怎样的方式来让自己发光发热。受我很欣赏的一些博主的影响，用这个小播客里来满足自己对理想的行动欲。我会在这里和大家来说一说我自己对于女权的观察和思考。作为一个理工科技术男我并不清楚怎样是更好的，在实践中寻找成功的秘籍。&lt;/p
+        
+      
+    
+    </summary>
+    
+      <category term="女权" scheme="https://caspiankexin.github.io/categories/%E5%A5%B3%E6%9D%83/"/>
+    
+    
+      <category term="女权" scheme="https://caspiankexin.github.io/tags/%E5%A5%B3%E6%9D%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>再次杨帆，再次启航</title>
+    <link href="https://caspiankexin.github.io/2020/01/15/07-zai-ci-yang-fan-zai-ci-qi-hang/"/>
+    <id>https://caspiankexin.github.io/2020/01/15/07-zai-ci-yang-fan-zai-ci-qi-hang/</id>
+    <published>2020-01-15T13:09:54.000Z</published>
+    <updated>2020-01-15T13:48:12.829Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;已经有好久没有更新网站的推文了，之前那么大决心立的flag算是凉凉了。挣扎了但没作用还是没做到该有的更新。&lt;/p&gt;
+&lt;p&gt;这很长一段时间来，状态并不好，开心的时候是没空写感受，只有在悲伤难过时有大把时间和欲望来表达自己的悲惨，但是在并没有什么很明确的伤心感情的情况下，情绪和
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>心中若有爱，人生很美好</title>
+    <link href="https://caspiankexin.github.io/2019/11/20/05/"/>
+    <id>https://caspiankexin.github.io/2019/11/20/05/</id>
+    <published>2019-11-20T15:13:20.000Z</published>
+    <updated>2019-11-20T15:27:46.254Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;我并不能理解为什么生活这么残忍，人生这么艰难，但人们依旧还是会拼命生活。&lt;/p&gt;
+&lt;p&gt;对于《呼兰河传》里的旧社会的人们，我想或许是因为人作为动物”生存的本能”和不思考的愚昧，我一直很看不起这样的生命，认为人如果有了足够的思考就可以突破”生存本能“来自行决定生命的对待。&lt;/
+        
+      
+    
+    </summary>
+    
+      <category term="感悟" scheme="https://caspiankexin.github.io/categories/%E6%84%9F%E6%82%9F/"/>
+    
+    
+      <category term="感悟" scheme="https://caspiankexin.github.io/tags/%E6%84%9F%E6%82%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>看了一本《呼兰河传》</title>
+    <link href="https://caspiankexin.github.io/2019/11/09/04/"/>
+    <id>https://caspiankexin.github.io/2019/11/09/04/</id>
+    <published>2019-11-09T04:07:33.000Z</published>
+    <updated>2019-11-09T05:03:41.474Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre&gt;&lt;code&gt;书名：《呼兰河传》
+时间：2019年10月-11月
+地点：中北大学图书馆&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;##内容：&lt;/p&gt;
+&lt;p&gt;呼兰河是一个中国最普通的一个小城，这个小城和其他小城没有什么区别。小城里有各式各样的店铺和人，有许许多多日常普通的事情，描述了小
+        
+      
+    
+    </summary>
+    
+      <category term="读书观后感" scheme="https://caspiankexin.github.io/categories/%E8%AF%BB%E4%B9%A6%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    
+    
+      <category term="读书" scheme="https://caspiankexin.github.io/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>欲穷千里目，更上一层楼。</title>
+    <link href="https://caspiankexin.github.io/2019/11/02/03/"/>
+    <id>https://caspiankexin.github.io/2019/11/02/03/</id>
+    <published>2019-11-02T12:00:14.000Z</published>
+    <updated>2019-11-02T12:09:06.646Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;这是一个更加寒冷的一周，冷空气更加的强势，让我穿上了更臃肿的衣服；这是一个更美丽的一周，秋季的风景更加绚丽多彩，让我更多的拿起了相机；这是一个让我更加愉快的一周，阴霾散去，看见了更多的未曾想起的美好。&lt;/p&gt;
+&lt;p&gt;对于我的一些朋友来说，我经常是一个需要帮助的孩子，常常陷入
+        
+      
+    
+    </summary>
+    
+      <category term="myself" scheme="https://caspiankexin.github.io/categories/myself/"/>
+    
+    
+      <category term="myself" scheme="https://caspiankexin.github.io/tags/myself/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>超级讨厌且需要消灭的两件事情</title>
+    <link href="https://caspiankexin.github.io/2019/10/21/02/"/>
+    <id>https://caspiankexin.github.io/2019/10/21/02/</id>
+    <published>2019-10-21T02:27:28.000Z</published>
+    <updated>2019-10-21T10:27:31.452Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在“关于”页面有一句“没有倔强的执念，愿意自我和周边的改变。”的自我描述，我认为这是对我介绍里最有分量的地方。不算自夸也不算自贬低。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;自傲且又自卑，孤独却又排外。这是我内心和情绪里的最大矛盾，我很清楚自己有
+        
+      
+    
+    </summary>
+    
+      <category term="myself" scheme="https://caspiankexin.github.io/categories/myself/"/>
+    
+    
+      <category term="flag" scheme="https://caspiankexin.github.io/tags/flag/"/>
+    
+  </entry>
+  
+</feed>
